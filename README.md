@@ -1,2 +1,2 @@
 # BlockMerge
-IP Proyect
+Proyecto realizado para la asignautura IP
